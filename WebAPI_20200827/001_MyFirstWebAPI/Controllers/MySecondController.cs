@@ -14,8 +14,8 @@ namespace _001_MyFirstWebAPI.Controllers
         {
             return new List<Person>
             {
-                new Person { Id=1, Firstname="Muster", LastName="Mustermann"},
-                new Person { Id=2, Firstname="Muster", LastName="Musterfrau"}
+                new Person { Id=1, Firstname="Muster", Lastname="Mustermann"},
+                new Person { Id=2, Firstname="Muster", Lastname="Musterfrau"}
             };
 
         }
