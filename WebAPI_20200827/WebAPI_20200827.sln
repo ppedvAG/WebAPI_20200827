@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_MyFirstWebAPI", "001_MyFirstWebAPI\001_MyFirstWebAPI.csproj", "{F5074984-9F7D-4B32-A485-F06313260D93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01AB478E-D3CF-47C5-BFF8-414AAD0D56C9}"
+	ProjectSection(SolutionItems) = preProject
+		LinkCollection.txt = LinkCollection.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5074984-9F7D-4B32-A485-F06313260D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5074984-9F7D-4B32-A485-F06313260D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5074984-9F7D-4B32-A485-F06313260D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5074984-9F7D-4B32-A485-F06313260D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71142E1F-0CFE-47B2-82B0-8799DCB4E21E}
+	EndGlobalSection
+EndGlobal

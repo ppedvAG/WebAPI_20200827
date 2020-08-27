@@ -1,0 +1,11 @@
+
+Linq 101 Sample:
+https://linqsamples.com/
+
+Linq 101 Sample (mit Download):
+https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/
+
+
+
+Mit Attribut Routing kann in gewissen Mustern die Performance erhöhen. 
+https://docs.microsoft.com/de-de/aspnet/web-api/overview/web-api-routing-and-actions/attribute-routing-in-web-api-2
