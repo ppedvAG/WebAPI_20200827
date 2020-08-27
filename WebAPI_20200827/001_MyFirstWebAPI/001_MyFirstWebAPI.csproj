@@ -87,6 +87,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MyFirstController.cs" />
     <Compile Include="Controllers\MySecondController.cs" />
+    <Compile Include="Formatters\CustomNamespaceXmlFormatter.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

@@ -22,3 +22,13 @@ TODO:
 
 Formatting with x-protobuf
 -> https://github.com/Apress/asp.net-web-api-2-recipes/tree/master/Chapter%204/4-2/Apress.Recipes.WebApi
+UnitTest zum Lib- Paket
+https://github.com/WebApiContrib/WebApiContrib.Formatting.ProtoBuf/blob/master/test/WebApiContrib.Formatting.ProtoBuf.Test/ProtoBufFormatterTest.cs
+
+
+
+HATEOAS + DataShaping
+
+https://code-maze.com/hateoas-aspnet-core-web-api/
+https://code-maze.com/data-shaping-aspnet-core-webapi/
+https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/hateoas-end

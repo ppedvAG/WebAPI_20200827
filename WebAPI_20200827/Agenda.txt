@@ -1,0 +1,13 @@
+Freitag - Agenda:
+
+- Routing (1Std) 
+- HttpResponseMessage vs. IHttpActionResult (15Min - 30Min)
+- Caching (1Std)
+- Global Exception Handling (1Std)
+- Attribute Filters (1Std)
+- Scaffolding -> WebAPI mit EF (1Std)
+- Authentifizierung (1-2Std)
+- Deployment IIS /  "Owin-Hosting""
+
+
+Links zu HATEOAS + DataShaping

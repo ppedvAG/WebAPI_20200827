@@ -10,7 +10,7 @@ namespace _001_MyFirstWebAPI_Client
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // Erstes Beispiel für Formating
             var adress = "https://localhost:44333/api/";
@@ -20,7 +20,7 @@ namespace _001_MyFirstWebAPI_Client
             var message1 = new HttpRequestMessage(HttpMethod.Get, adress + "MySecond");
             message1.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-            var response1 = client.SendAsync(message1).Result;
+            var response1 = await client.SendAsync(message1);
 
             Console.WriteLine(response1.Content.ReadAsStringAsync().Result);
             Console.WriteLine();
