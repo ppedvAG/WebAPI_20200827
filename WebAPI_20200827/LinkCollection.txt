@@ -40,3 +40,16 @@ https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/hateoas-e
 
 Benchmark Languages:
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharp.html
+
+authentication-filters:
+https://docs.microsoft.com/de-de/aspnet/web-api/overview/security/authentication-filters
+
+
+Dependency Injection - Inverion of Control (Pattern) 
+Inversion of Control verwendet das Dependency Injection Pattern 
+
+In .NET Framework 4.5 - 4.8 Autofac ist der schnellste Container
+
+
+Zusätzlich zu Dependency Injection -> https://en.wikipedia.org/wiki/Interface_segregation_principle
+Interface_segregation_principle
