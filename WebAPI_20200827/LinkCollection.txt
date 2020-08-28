@@ -16,6 +16,10 @@ https://docs.microsoft.com/de-de/aspnet/web-api/overview/web-api-routing-and-act
 TODO: 
 
 -OAuth2 Bearer Token
+https://www.youtube.com/watch?v=_LdiqQ13NBo
+
+Praktisches Beispiel:
+
 
 
 
@@ -32,3 +36,7 @@ HATEOAS + DataShaping
 https://code-maze.com/hateoas-aspnet-core-web-api/
 https://code-maze.com/data-shaping-aspnet-core-webapi/
 https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/hateoas-end
+
+
+Benchmark Languages:
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharp.html
