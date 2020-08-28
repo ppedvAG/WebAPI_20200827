@@ -53,3 +53,11 @@ In .NET Framework 4.5 - 4.8 Autofac ist der schnellste Container
 
 Zusätzlich zu Dependency Injection -> https://en.wikipedia.org/wiki/Interface_segregation_principle
 Interface_segregation_principle
+
+
+Design Patterns = Martin Fowler -> https://martinfowler.com/
+
+Julia Lernman (Authorin im Microsoft Umfeld) ->https://thedatafarm.com/
+Dino Esposito 
+Eric Evans
+
